@@ -1,0 +1,19 @@
+# Compiled executable
+/minifetch
+
+# Object files
+*.o
+
+# Development test programs and source
+/tests/
+/*-test
+
+# Source backups and working copies
+*.bak
+*.working
+*.boxed-v*
+
+# Editor temporary files
+*~
+*.swp
+*.swo
